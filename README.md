@@ -7,4 +7,4 @@ My core expertise is in Vue.js (Vue 2 & Vue 3), TypeScript, JavaScript, and mode
 I lived in Japan🇯🇵 for 2.5 years and am aiming to move there permanently. I’m highly motivated to contribute to innovative teams and build impactful products in a long-term environment.
 
 
-![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,html,css,docker,git)
+![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,html,css,docker,git,go)
